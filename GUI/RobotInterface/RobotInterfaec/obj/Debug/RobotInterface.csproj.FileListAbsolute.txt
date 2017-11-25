@@ -1,0 +1,9 @@
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\bin\Debug\RobotInterfaec.exe.config
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\bin\Debug\RobotInterfaec.exe
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\bin\Debug\RobotInterfaec.pdb
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\obj\Debug\RobotInterfaec.Properties.Resources.resources
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\obj\Debug\RobotInterface.csproj.GenerateResource.Cache
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\obj\Debug\RobotInterfaec.exe
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\obj\Debug\RobotInterfaec.pdb
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\obj\Debug\RobotInterface.RobotGUI.resources
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\obj\Debug\RobotInterface.csprojResolveAssemblyReference.cache

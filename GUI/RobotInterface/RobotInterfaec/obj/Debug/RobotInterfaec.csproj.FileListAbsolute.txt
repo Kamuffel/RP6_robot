@@ -1,0 +1,36 @@
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterfaec\RobotInterfaec\bin\Debug\RobotInterfaec.exe.config
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe.config
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.exe
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.pdb
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\obj\Debug\RobotInterface.RobotGUI.resources
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.Properties.Resources.resources
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.csproj.GenerateResource.Cache
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.pdb
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\DeviceManagement.dll
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\SharpDX.dll
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\SharpDX.XInput.dll
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\SharpDX.xml
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\bin\Debug\SharpDX.XInput.xml
+D:\School\HHS Delft\HBO-ICT NSE vt\periode 1\PJSW testcode\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.csprojResolveAssemblyReference.cache
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe.config
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.pdb
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.csprojResolveAssemblyReference.cache
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\obj\Debug\RobotInterface.RobotGUI.resources
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.Properties.Resources.resources
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.csproj.GenerateResource.Cache
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.exe
+C:\Users\Timothy\Desktop\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.pdb
+C:\Users\Zain\Documents\Github\a\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe.config
+C:\Users\Zain\Documents\Github\a\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.exe
+C:\Users\Zain\Documents\Github\a\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.pdb
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe.config
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.exe
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.pdb
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.exe
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\bin\Debug\RobotInterfaec.pdb
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.csprojResolveAssemblyReference.cache
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\obj\Debug\RobotInterface.RobotGUI.resources
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.Properties.Resources.resources
+C:\Users\Zain\Downloads\rp6_2a_groep1\GUI\RobotInterface\RobotInterfaec\obj\Debug\RobotInterfaec.csproj.GenerateResource.Cache
